@@ -82,9 +82,9 @@
 							<li class="active-menu">
 								<a href="index.php">Trang chủ</a>
 								<ul class="sub-menu">
-									<li><a href="index.php">Homepage 1</a></li>
-									<li><a href="home-02.html">Homepage 2</a></li>
-									<li><a href="home-03.html">Homepage 3</a></li>
+									<li><a href="index.php">Bộ sưu tập</a></li>
+									<li><a href="home-02.php">Sản phẩm</a></li>
+									<!-- <li><a href="home-03.php"></a></li> -->
 								</ul>
 							</li>
 
